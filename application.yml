@@ -9,4 +9,4 @@ eureka:
       
 user:
   application:
-    name: Hi I am from User application(user-service-application.yml from GIT). WELCOME
+    name: Hi I am from User application(application.yml from GIT). WELCOME
